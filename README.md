@@ -2,7 +2,7 @@
 Small tool allowing to extract some user data *(password hash, etc ...)* from the user's binary Plist file
 
 # Requirements 
-- Python3
+- Python 3
 
 # I. How it works
 ## Retrieve the file containing the information of the desired user
