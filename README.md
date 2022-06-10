@@ -9,7 +9,7 @@ Small tool allowing to extract some user data *(password hash, etc ...)* from th
 
 ```bash
 # Where uSeRnAmE is one of the mac accounts
-cp private/var/db/dslocal/nodes/Default/users/uSeRnAmE.plist .
+cp /private/var/db/dslocal/nodes/Default/users/uSeRnAmE.plist .
 ```
 ## Download and execute the script 
 ```bash
